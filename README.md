@@ -3,5 +3,5 @@
 ![Static Badge](https://img.shields.io/badge/Hi%20Everyone-cyan) 
 
 
-![Static Badge](https://img.shields.io/badge/cool-cyan)
+
 
